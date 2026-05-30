@@ -433,7 +433,3 @@ If you found this repository useful, feel free to connect and collaborate.
 * Portfolio
 
 ---
-
-# License
-
-This project is licensed under the MIT License.
